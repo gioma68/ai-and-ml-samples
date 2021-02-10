@@ -1,1 +1,3 @@
-# ai-and-ml-samples
+## AI && Machine Learning samples
+
+My first approach to jupyter/python
